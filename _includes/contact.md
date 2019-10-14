@@ -1,8 +1,3 @@
----
-layout:     post
-title:      "Contacts"
-date:       2019-10-14 19:00:00"
----
 # Address
 Meng Minwei Science&Technology Building Shuangqing Road No.30 Tsinghua University, Haidian Beijing China
 
