@@ -4,7 +4,7 @@
 **Seminar time:** 3:00pm on Fridays  
 **Location:** Mong Man-wai Building S-727  
 
-This is the course website for "Student Seminar Topics in observational Astrophysics" for 2019 Fall. It is the sister course to Student Seminar in Theoretical Astrophysics. This semester, Tsinghua DOA students select from a list of topics under the theme of "Observational Astrophysics", and take turns to give 30-minutes presentations. The audience will provide feedback. The talk schedule is listed below and is updated as the semester proceeds.
+This is the course website for "Student Seminar Topics in observational Astrophysics" for 2019 Fall. It is the sister course to Student Seminar in Theoretical Astrophysics. This semester, Tsinghua DOA students select from a list of topics under the theme of "Observational Astrophysics", and take turns to give 30-minutes presentations. The audience will provide feedback. The talk schedule is listed below and is updated as the semester proceeds.  
 |**Date**|**Speaker**|**Topic**|**Faculty**|
 | :---:| :----: | :----: | :----: |
 |2019/09/20|Zheng Cai|[The highest redshift sources in the reionization epoch](../_include/StudentSeminarSlices/ZhengCai.pdf)|Zheng Cai|
