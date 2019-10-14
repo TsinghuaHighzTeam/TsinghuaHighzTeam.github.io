@@ -1,4 +1,4 @@
-## Student Seminar topics in Observational Astrophysics(2019 Fall)  
+# Student Seminar topics in Observational Astrophysics(2019 Fall)  
 **Organizer:** [Zheng Cai](http://sancerre.as.arizona.edu/~caiz/Home/Welcome.html)  
 **Instructors:** [Faculty members from Tsinghua DOA](http://astro.tsinghua.edu.cn/index.php/people-faculty)  
 **Seminar time:** 3:00pm on Fridays  
