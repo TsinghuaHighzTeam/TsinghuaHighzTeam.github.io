@@ -1,0 +1,9 @@
+layout: page
+title: "about"
+description: "Tsinghua High-z Team"
+header-img: ""
+---
+<div >
+    {% capture hzg_thu %}{% include about.md %}{% endcapture %}
+    {{ hzg_thu | markdownify }}
+</div>
