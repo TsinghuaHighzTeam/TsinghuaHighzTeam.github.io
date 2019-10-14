@@ -6,7 +6,7 @@ layout: default
 <style type="text/css">
     header.intro-header{
         position: relative;
-        background-image: url('{{ site.baseurl }}/img/bg/bg_cluster.jpeg')
+        background-image: url('{{ site.baseurl }}{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}')')
     }
 </style>
 <header class="intro-header" >
