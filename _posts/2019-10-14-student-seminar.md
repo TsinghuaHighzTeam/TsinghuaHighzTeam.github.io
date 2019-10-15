@@ -11,7 +11,7 @@ This is the course website for "Student Seminar Topics in observational Astrophy
 | 2019/09/20 | Zheng Cai | [The highest redshift sources in the reionization epoch](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/ZhengCai.pdf) | Zheng Cai |  
 | 2019/09/27 | Yangyao Chen | [An Introduction to High Performance Computation](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/YangyaoChen.pptx) | Zheng Cai |  
 | 2019/09/27 | Shiwu Zhang | [How does AGN feedback Work?](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/ShiwuZhang.pptx) | Zheng Cai |  
-| 2019/09/29 | Kai Wang | [Ly￼-alpha Forest Tomography](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/KaiWang.key) | Zheng cai |  
+| 2019/09/29 | Kai Wang | [Ly-alpha Forest Tomography](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/KaiWang.key) | Zheng cai |  
 | 2019/09/29 | Rui Huang | [Structure Your Python Project](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/RuiHuang.html) | Zheng Cai |  
 | 2019/10/11 | Xiaochen Sun | [Another Funeral of Stars:Tidal Disruption Events (TDE)](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/XiaochenSun.pdf) | Xuening Bai |
 | 2019/10/18 | Tianjun Gan | initial mass function | Xuening Bai |
