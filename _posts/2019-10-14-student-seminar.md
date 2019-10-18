@@ -18,5 +18,13 @@ This is the course website for "Student Seminar Topics in observational Astrophy
 | 2019/10/18 | Jiacheng Meng | [Halo occupation distribution](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/JiachengMeng.ley) | Zheng Cai |
 | 2019/10/25 | Fuheng Liang | metallicity in galaxies | Zheng Cai |
 | 2019/10/25 | Xuanyi Wu | fast radio bursts | Xuening Bai |
-| 2019/11/08 |  | Lyman alpha forest and other absorbers | Zheng Cai |
-| 2019/11/08 |  | circumgalactic medium and its link to galaxy | Dandan Xu |
+| 2019/11/01 | Meng Zhou | Lyman alpha forest and other absorbers | Zheng Cai |
+| 2019/11/01 | Yunjing Wu | circumgalactic medium and its link to galaxy | Dandan Xu |
+| 2019/11/08 | Sen Wang | Hubble constant 1 | Zheng Cai |
+| 2019/11/08 |  | Hubble constant 2 | Zheng Cai |
+| 2019/11/15 | Sifan Wang | Sunyaev-Zel'dovich effect | Zheng Cai |
+| 2019/11/15 | Xinyan Hua | Intergalactic Medium Thermal History; missing Baryon | Zheng Cai |
+| 2019/11/22 | Zhuo Cheng | stellar population synthesis and stellar evolution  | Cheng Li |
+| 2019/11/29 | Weicheng Zang | dust extinction and galactic dust maps | Dandan Xu |
+| 2019/11/29 | Changxing Zhou | EM counterpart of gravitational waves | Zheng Cai |
+
