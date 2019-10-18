@@ -15,7 +15,7 @@ This is the course website for "Student Seminar Topics in observational Astrophy
 | 2019/09/29 | Rui Huang | [Structure Your Python Project](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/RuiHuang.html) | Zheng Cai |  
 | 2019/10/11 | Xiaochen Sun | [Another Funeral of Stars:Tidal Disruption Events (TDE)](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/XiaochenSun.pdf) | Xuening Bai |
 | 2019/10/18 | Tianjun Gan | initial mass function | Xuening Bai |
-| 2019/10/18 | Jiacheng Meng | [Halo occupation distribution](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/JiachengMeng.ley) | Zheng Cai |
+| 2019/10/18 | Jiacheng Meng | [Halo occupation distribution](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/JiachengMeng.key) | Zheng Cai |
 | 2019/10/25 | Fuheng Liang | metallicity in galaxies | Zheng Cai |
 | 2019/10/25 | Xuanyi Wu | fast radio bursts | Xuening Bai |
 | 2019/11/01 | Meng Zhou | Lyman alpha forest and other absorbers | Zheng Cai |
