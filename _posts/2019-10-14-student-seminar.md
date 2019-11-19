@@ -20,7 +20,7 @@ This is the course website for "Student Seminar Topics in observational Astrophy
 | 2019/10/25 | Xuanyi Wu | [fast radio bursts](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/XuanyiWu.pptx) | Xuening Bai |
 | 2019/11/01 | Meng Zhou | [Lyman alpha forest and other absorbers](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/MengZhou.pptx) | Zheng Cai |
 | 2019/11/01 | Yunjing Wu | [circumgalactic medium and its link to galaxy](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/YunjingWu.pptx) | Dandan Xu |
-| 2019/11/08 | Sen Wang | Hubble constant 1 | Zheng Cai |
+| 2019/11/08 | Sen Wang | [Hubble constant 1](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/SenWang.pptx) | Zheng Cai |
 | 2019/11/08 | Xiao Li | Hubble constant 2 | Zheng Cai |
 | 2019/11/15 | Sifan Wang | Sunyaev-Zel'dovich effect | Zheng Cai |
 | 2019/11/15 | Xinyan Hua | Intergalactic Medium Thermal History; missing Baryon | Zheng Cai |
