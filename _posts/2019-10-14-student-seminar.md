@@ -25,6 +25,6 @@ This is the course website for "Student Seminar Topics in observational Astrophy
 | 2019/11/15 | Sifan Wang | [Sunyaev-Zel'dovich effect](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/SifanWang.pptx) | Zheng Cai |
 | 2019/11/15 | Xinyan Hua | Intergalactic Medium Thermal History; missing Baryon | Zheng Cai |
 | 2019/11/22 | Zhuo Cheng | stellar population synthesis and stellar evolution | Cheng Li |
-| 2019/11/22 | Xiaosheng Zhao | Astroinformatics: the "Fourth Paradigm" of astrophysical research. | Xuening Bai |
+| 2019/11/22 | Xiaosheng Zhao | Astroinformatics: the "Fourth Paradigm" of astrophysical research | Xuening Bai |
 | 2019/11/29 | Weicheng Zang | dust extinction and galactic dust maps | Dandan Xu |
 | 2019/11/29 | Changxing Zhou | EM counterpart of gravitational waves | Zheng Cai |
