@@ -26,5 +26,9 @@ This is the course website for "Student Seminar Topics in observational Astrophy
 | 2019/11/22 | Zhuo Cheng | [stellar population synthesis and stellar evolution](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/ZhuoCheng.pptx) | Cheng Li  |
 | 2019/11/22 | Xiaosheng Zhao | [Astroinformatics: the "Fourth Paradigm" of astrophysical research](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/XiaoshengZhao.pdf) | Xuening Bai  |
 | 2019/11/29 | Weicheng Zang | [dust extinction and galactic dust maps](https://github.com/TsinghuaHighzTeam/TsinghuaHighzTeam.github.io/raw/master/_includes/StudentSeminarSlices/WeichengZang.key) | Dandan Xu  |
-| 2019/11/29 | Changxing Zhou | EM counterpart of gravitational waves | Zheng Cai  |
+| 2019/12/06 | Changxing Zhou | EM counterpart of gravitational waves | Zheng Cai  |
+| 2019/12/13 | Dongxin Yang | evolution of cosmic star formation and stellar mass | Dandan Xu  |
+| 2019/12/20 | Jiao Ding | cosmic web and its connection to galaxy formation | Zheng Cai  |
+| 2019/12/20 | Gaobo Xi |  measure distance using gravitational waves | Zheng Cai  |
+| 2019/12/27 | Haochang Jiang | Baryonic Acoustic Oscillation  | Zheng Cai  |
 
